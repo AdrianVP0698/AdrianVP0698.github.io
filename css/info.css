@@ -1,0 +1,54 @@
+
+
+#cuerpo
+{
+	height: 600px;
+	overflow: hidden;
+}
+.par
+{
+	width: 100%;
+	padding: 20px;
+	margin: 5% auto;
+	border-radius: 10px;
+	background-color: #646464;
+	text-align: center;
+	color: #fff;
+}
+#n
+{
+	text-align: center;
+}
+h2
+{
+	font-family: 'Nunito Sans', sans-serif;
+	font-size: 30px;
+	
+}
+p
+{
+	font-family: 'Roboto Mono', monospace;
+}
+#texto
+{
+	text-decoration: none;
+	color: #fff;
+	font-size: 30px;
+	top: 60%;
+
+}
+
+@media (min-width: 480px)
+{
+#par h2
+{
+width: auto;
+height: auto;
+margin: auto;
+}
+
+#texto
+{
+	justify-content: center;
+}
+}

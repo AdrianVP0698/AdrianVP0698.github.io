@@ -1,0 +1,40 @@
+figure>img
+{
+width: 380px;
+height: 540px;
+border-radius: 4px;
+position: relative;
+top: 10px;
+
+}
+#cuerpo1
+{
+	height: 550px;
+	overflow: hidden;
+}
+.par1
+{
+	width: 60%;
+	padding: 10px;
+	margin: 5% auto;
+	border-radius: 10px;
+	background-color: #646464;
+	text-align: center;
+	color: #fff;
+	top: -600px;
+	left: 150px;
+	position: relative;
+	
+	
+}
+
+h2
+{
+	font-family: 'Nunito Sans', sans-serif;
+	font-size: 30px;
+
+}
+p
+{
+	font-family: 'Roboto Mono', monospace;
+}
